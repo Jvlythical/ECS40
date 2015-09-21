@@ -1,0 +1,8 @@
+Testing a LinkedList of integer values
+Enter one of the following:
+  1 to insert at beginning of list
+  2 to insert at end of list
+  3 to delete from beginning of list
+  4 to delete from end of list
+  5 to end list processing
+? 

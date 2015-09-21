@@ -1,0 +1,1 @@
+#include <iostream>#include <iostream>int main () {	std::cout << "bye" << std::endl;		return 0;}#include <iostream>int main () {	std::cout << "bye" << std::endl;		return 0;}#include <iostream>int main () {	std::cout << "bye" << std::endl;		return 0;}

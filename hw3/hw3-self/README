@@ -1,0 +1,13 @@
+-Created a board.h file that contains the Board class and a board.cpp file that contains the class implementations
+
+-Declared the the function prototypes for print_board() and setup_board() within the class
+-Declared functions called by the two above functions within the class as well
+	-These functions include print_square(), reset(), and compute_hash()
+-Declared a constructor and destructor as well as a private memember variable called board
+-The [] operator was overloaded for the class to return a byte object
+-Enum, const variables, inline functions, structs, and extern variables necessary for board class implementation were also placed in the board.h 
+-Function implementations necessary for the class were moved from mscp.cpp into board.cpp and modified to belong to the class
+
+-Changed macro #define to inline functions or constant variables within mscp.cpp
+-Dereferenced the Board object that was defined in mscp.cpp to call its member functions
+-Changed printf and scanf calls to cout and cin in mscp.cpp and board.cpp
